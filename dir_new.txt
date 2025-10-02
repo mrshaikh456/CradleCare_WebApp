@@ -1,0 +1,87 @@
+ Volume in drive E is 1TB SSD
+ Volume Serial Number is F07C-7B8A
+
+ Directory of E:\admin\admin\abdullah\CradleCare
+
+10/02/2025  05:53 AM    <DIR>          .
+10/02/2025  05:53 AM    <DIR>          ..
+10/02/2025  05:38 AM    <DIR>          cradlecare
+10/02/2025  05:25 AM             1,515 dir.txt
+10/02/2025  05:53 AM                 0 dir_new.txt
+10/02/2025  05:31 AM                 0 manage.py
+10/02/2025  05:37 AM                24 requirements.txt
+10/02/2025  05:25 AM    <DIR>          static
+10/02/2025  05:29 AM    <DIR>          templates
+10/02/2025  05:39 AM    <DIR>          tracker
+               4 File(s)          1,539 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\cradlecare
+
+10/02/2025  05:38 AM    <DIR>          .
+10/02/2025  05:38 AM    <DIR>          ..
+10/02/2025  05:38 AM             1,889 settings.py
+10/02/2025  05:38 AM               250 urls.py
+               2 File(s)          2,139 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\static
+
+10/02/2025  05:25 AM    <DIR>          .
+10/02/2025  05:25 AM    <DIR>          ..
+10/02/2025  05:25 AM    <DIR>          css
+               0 File(s)              0 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\static\css
+
+10/02/2025  05:25 AM    <DIR>          .
+10/02/2025  05:25 AM    <DIR>          ..
+10/02/2025  05:43 AM             5,474 main.css
+               1 File(s)          5,474 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\templates
+
+10/02/2025  05:29 AM    <DIR>          .
+10/02/2025  05:29 AM    <DIR>          ..
+10/02/2025  05:29 AM    <DIR>          auth
+10/02/2025  05:41 AM             1,833 base.html
+10/02/2025  05:40 AM    <DIR>          tracker
+               1 File(s)          1,833 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\templates\auth
+
+10/02/2025  05:29 AM    <DIR>          .
+10/02/2025  05:29 AM    <DIR>          ..
+10/02/2025  05:41 AM             1,251 login.html
+10/02/2025  05:42 AM               941 register.html
+               2 File(s)          2,192 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\templates\tracker
+
+10/02/2025  05:40 AM    <DIR>          .
+10/02/2025  05:40 AM    <DIR>          ..
+10/02/2025  05:42 AM               704 add_baby.html
+10/02/2025  05:34 AM             2,707 appointment_tracker.html
+10/02/2025  05:46 AM             2,340 baby_detail.html
+10/02/2025  05:42 AM             1,974 dashboard.html
+10/02/2025  05:48 AM             2,324 feeding_tracker.html
+10/02/2025  05:46 AM             2,238 growth_tracker.html
+10/02/2025  05:34 AM             2,891 milestone_tracker.html
+10/02/2025  05:34 AM             2,047 personal_journal.html
+10/02/2025  05:44 AM             2,185 recipes.html
+10/02/2025  05:48 AM             2,235 sleep_tracker.html
+10/02/2025  05:35 AM             2,150 vaccination_schedule.html
+              11 File(s)         23,795 bytes
+
+ Directory of E:\admin\admin\abdullah\CradleCare\tracker
+
+10/02/2025  05:39 AM    <DIR>          .
+10/02/2025  05:39 AM    <DIR>          ..
+10/02/2025  05:38 AM               273 admin.py
+10/02/2025  05:51 AM             1,909 forms.py
+10/02/2025  05:38 AM             2,542 models.py
+10/02/2025  05:47 AM             1,245 urls.py
+10/02/2025  05:52 AM             6,530 views.py
+               5 File(s)         12,499 bytes
+
+     Total Files Listed:
+              26 File(s)         49,471 bytes
+              23 Dir(s)  437,658,226,688 bytes free

@@ -1,0 +1,30 @@
+cradlecare_project/
+│
+├── .venv/                   # Your Python virtual environment folder
+│
+├── cradlecare/              # The Django project configuration directory
+│   ├── __init__.py
+│   ├── settings.py          # Project settings (database, static files, etc.)
+│   ├── urls.py              # Main URL routing for the entire project
+│   ├── wsgi.py
+│   └── asgi.py
+│
+├── tracker/                 # The main application for all CradleCare features
+│   ├── __init__.py
+│   ├── admin.py             # To register your models with the Django admin site
+│   ├── apps.py
+│   ├── models.py            # Where you will define your database tables (Baby, GrowthLog, etc.)
+│   ├── tests.py
+│   ├── urls.py              # URLs specific to the 'tracker' app
+│   └── views.py             # Where your application logic (e.g., handling forms) will go
+│
+├── static/                  # For all your CSS, JavaScript, and images
+│   └── css/
+│       └── main.css         # The global stylesheet we just created
+│
+├── templates/               # For all your HTML files
+│   └── base.html            # The master template we just created
+│
+├── manage.py                # The command-line utility for managing your Django project
+│
+└── requirements.txt         # A file to list your project's Python dependencies (e.g., Django)
