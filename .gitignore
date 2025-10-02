@@ -26,3 +26,7 @@ IDE / Editor specific files
 Operating System files
 .DS_Store
 Thumbs.db
+
+Directory files
+dir.txt
+dir_new.txt
