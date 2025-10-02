@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
 ![Django](https://img.shields.io/badge/Django-4.x-darkgreen?logo=django)  
-![License](https://img.shields.io/github/license/mrshaikh456/CradleCare_WebApp)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)   
 ![Last Commit](https://img.shields.io/github/last-commit/mrshaikh456/CradleCare_WebApp)  
 ![Issues](https://img.shields.io/github/issues/mrshaikh456/CradleCare_WebApp)  
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?logo=github)
