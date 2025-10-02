@@ -11,8 +11,8 @@
 CradleCare is a **full-stack web application** designed as an all-in-one wellness tracker for newborns and their mothers.  
 It provides a clean, intuitive interface to help new mothers log, track, and visualize essential health data — reducing stress during the postpartum period.
 
-![App Screenshot](<img width="1920" height="965" alt="image" src="https://github.com/user-attachments/assets/185307cd-5de3-40c6-aadc-4ed3f62a4b8c" />)  
-<!-- Replace with a real screenshot -->
+![Screenshot](https://github.com/user-attachments/assets/185307cd-5de3-40c6-aadc-4ed3f62a4b8c)  
+![Screenshot](https://github.com/user-attachments/assets/d5ae9f4b-bfbc-423c-9ba3-0817dbabe4a4)
 
 ---
 
