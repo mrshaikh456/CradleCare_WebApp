@@ -1,12 +1,12 @@
 # CradleCare 👶💖  
 **The Newborn & Mother Wellness Companion**
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)  
-![Django](https://img.shields.io/badge/Django-4.x-darkgreen?logo=django)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)   
-![Last Commit](https://img.shields.io/github/last-commit/mrshaikh456/CradleCare_WebApp)  
-![Issues](https://img.shields.io/github/issues/mrshaikh456/CradleCare_WebApp)  
-![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?logo=github)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)  
+[![Django](https://img.shields.io/badge/Django-4.x-green?logo=django)](https://www.djangoproject.com/)  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)  
+[![Last Commit](https://img.shields.io/github/last-commit/mrshaikh456/CradleCare_WebApp)](https://github.com/mrshaikh456/CradleCare_WebApp/commits/main)  
+[![Issues](https://img.shields.io/github/issues/mrshaikh456/CradleCare_WebApp)](https://github.com/mrshaikh456/CradleCare_WebApp/issues)  
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?logo=github)](../../issues)
 
 CradleCare is a **full-stack web application** designed as an all-in-one wellness tracker for newborns and their mothers.  
 It provides a clean, intuitive interface to help new mothers log, track, and visualize essential health data — reducing stress during the postpartum period.
